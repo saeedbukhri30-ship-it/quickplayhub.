@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="QuickPlay Hub is your go-to destination for fun, fast, and free browser games. Play instantly without downloads or logins—just click and enjoy. From casual puzzles to endless challenges, our lightweight games run smoothly on mobile and desktop. Compete for high scores, challenge friends, and have quick bursts of fun anytime, anywhere.">
+  <title>QuickPlay Hub</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f2f2f2;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    header {
+      background: #4CAF50;
+      color: white;
+      padding: 20px;
+    }
+    h1 {
+      margin: 0;
+    }
+    p {
+      max-width: 700px;
+      margin: 20px auto;
+      font-size: 18px;
+      line-height: 1.6;
+    }
+    .game-link {
+      display: inline-block;
+      margin: 20px;
+      padding: 15px 25px;
+      background: #333;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      transition: 0.3s;
+    }
+    .game-link:hover {
+      background: #555;
+    }
+    footer {
+      margin-top: 40px;
+      padding: 15px;
+      background: #222;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>🎮 QuickPlay Hub</h1>
+    <h3>Play Fun Games Online Anytime</h3>
+  </header>
+
+  <p>
+    QuickPlay Hub is your go-to destination for fun, fast, and free browser games. 
+    Play instantly without downloads or logins—just click and enjoy. 
+    From casual puzzles to endless challenges, our lightweight games run smoothly 
+    on mobile and desktop. Compete for high scores, challenge friends, and have 
+    quick bursts of fun anytime, anywhere.
+  </p>
+
+  <a href="https://play2048.co" target="_blank" class="game-link">Play 2048</a>
+  <a href="https://www.coolmathgames.com/0-snake" target="_blank" class="game-link">Play Snake</a>
+  <a href="https://games.crazygames.com/en_US/tunnel-rush" target="_blank" class="game-link">Play Tunnel Rush</a>
+
+  <footer>
+    <p>© 2025 QuickPlay Hub. All Rights Reserved.</p>
+  </footer>
+
+</body>
+</html>
